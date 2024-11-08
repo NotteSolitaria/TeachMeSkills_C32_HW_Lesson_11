@@ -9,4 +9,5 @@ The document number has the format xxxx-yyy-xxxx-yyy-xyxy, where x is any digit,
 - Check whether the document number contains the sequence "abc" and display a message whether it does or not (moreover, abc and ABC are considered the same sequence).
 - Check if the document number starts with the sequence 555.
 - Check if the document number ends with the sequence 1a2b.
+  
 All these methods are implemented in a separate class in static methods, each task - in a separate method.
